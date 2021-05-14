@@ -8,7 +8,7 @@
 			"authorURL":"",
 			"version":"1.1.0",
 			"updated":"2021-04-24",
-			"description":"Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items. **A lag issue has been reported on saves with lots of clothing. This will be addresses in the next version. Until then, use with caution!**",
+			"description":"Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items. **A lag issue has been reported on saves with lots of clothing. This may cause autosaves after passing time (specifically reported as while cooking). This will be addressed in the next version. Until then, use with caution!**",
 			"modURL":"https://github.com/GruffCassquatch/ClothingTweaker",
 			"downloadURL":"https://github.com/GruffCassquatch/ClothingTweaker/releases/download/1.1/ClothingTweaker.dll",
 			"testedon":{
