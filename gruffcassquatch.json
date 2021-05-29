@@ -58,7 +58,7 @@
 				"mlversion":"0.2.7"
 			},
 			"dependencies":[
-				"DeveloperConsole"
+				"DeveloperConsole",
 				"ModSettings"
 			],
 			"status":{
