@@ -45,6 +45,28 @@
 				"notes":""
 			}
 		},{
+			"name":"Reroll Burnt Buildings",
+			"author":"<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a> and <a href='https://github.com/GruffCassquatch'target='_blank'>GruffCassquatch</a>",
+			"authorURL":"",
+			"version":"1.0",
+			"updated":"2021-05-29",
+			"description":"Adds console commands that allow you to reroll the random burnt building spawns. Full instructions in the README.",
+			"modURL":"https://github.com/GruffCassquatch/RerollBurntBuildings",
+			"downloadURL":"https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/1.0/RerollBurntBuildings.dll",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"DeveloperConsole"
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Wolves Come Out At Night",
 			"author":"",
 			"authorURL":"",
