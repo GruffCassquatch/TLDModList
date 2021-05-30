@@ -45,6 +45,27 @@
 				"notes":""
 			}
 		},{
+			"name":"Mountaineers Hut Temperature Tweaks",
+			"author":"",
+			"authorURL":"",
+			"version":"1.0",
+			"updated":"2021-05-30",
+			"description":"Allows you to tweak the interior temperature of the Mountaineer's Hut. Can change the interior temperature bonus (vanilla game value is +10°C) or set the hut to act like other interior locations with a fixed base temperature.",
+			"modURL":"https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks",
+			"downloadURL":"https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks/releases/download/1.0/MountaineersHutTemperatureTweaks.dll",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Reroll Burnt Buildings",
 			"author":"<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a> and <a href='https://github.com/GruffCassquatch'target='_blank'>Cass</a>",
 			"authorURL":"",
