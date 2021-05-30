@@ -67,6 +67,28 @@
 				"notes":""
 			}
 		},{
+			"name":"Sun Orientation Fixes",
+			"author":"",
+			"authorURL":"",
+			"version":"1.0",
+			"updated":"2021-05-30",
+			"description":"Fixes the sun orientation in several regions. Now all regions should be consistent with each other and the world map.",
+			"modURL":"https://github.com/GruffCassquatch/SunOrientationFixes",
+			"downloadURL":"https://github.com/GruffCassquatch/SunOrientationFixes/releases/download/1.0/SunOrientationFixes.dll",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"DeveloperConsole",
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Wolves Come Out At Night",
 			"author":"",
 			"authorURL":"",
