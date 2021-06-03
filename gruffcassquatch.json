@@ -69,11 +69,11 @@
 			"name":"Reroll Burnt Buildings",
 			"author":"<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a> and <a href='https://github.com/GruffCassquatch'target='_blank'>Cass</a>",
 			"authorURL":"",
-			"version":"1.0",
-			"updated":"2021-05-29",
-			"description":"Adds console commands that allow you to reroll the random burnt building spawns. Full instructions in the README.",
+			"version":"1.1",
+			"updated":"2021-06-03",
+			"description":"Adds console commands that allow you to reroll the random burnt building spawns. Now also includes the random fishing hut doors. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/RerollBurntBuildings",
-			"downloadURL":"https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/1.0/RerollBurntBuildings.dll",
+			"downloadURL":"https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/1.1/RerollBurntBuildings.dll",
 			"testedon":{
 				"tldversion":"1.94",
 				"mlversion":"0.2.7"
