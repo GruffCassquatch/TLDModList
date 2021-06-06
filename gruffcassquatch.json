@@ -29,7 +29,7 @@
 			"authorURL":"",
 			"version":"1.0",
 			"updated":"2021-06-06",
-			"description":"Allows you to change the capacity of containers. Separate settings for each type of container for granular control. This mod is NOT for unlimited container capacity.",
+			"description":"Allows you to change the capacity of containers. Separate settings for each type of container for granular control. This mod DOES NOT provide unlimited container capacity.",
 			"modURL":"https://github.com/GruffCassquatch/ContainerTweaks",
 			"downloadURL":"https://github.com/GruffCassquatch/ContainerTweaks/releases/download/1.0/ContainerTweaks.dll",
 			"testedon":{
