@@ -2,13 +2,34 @@
 	"author":"Cass",
 	"authorURL":"https://github.com/GruffCassquatch",
 	"mods":[
-		{
+				{
+			"name":"Choose Starting Gear",
+			"author":"",
+			"authorURL":"",
+			"version":"1.0",
+			"updated":"2021-06-12",
+			"description":"Allows you to choose your starting gear when starting a new game. Full instructions in the README.",
+			"modURL":"https://github.com/GruffCassquatch/ChooseStartingGear",
+			"downloadURL":"https://github.com/GruffCassquatch/ChooseStartingGear/releases/download/1.0/ChooseStartingGear.dll",
+			"testedon":{
+				"tldversion":"1.93",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Clothing Tweaker",
 			"author":"",
 			"authorURL":"",
 			"version":"2.0",
 			"updated":"2021-05-18",
-			"description":"Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items.",
+			"description":"Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/ClothingTweaker",
 			"downloadURL":"https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.0/ClothingTweaker.dll",
 			"testedon":{
@@ -29,7 +50,7 @@
 			"authorURL":"",
 			"version":"1.1",
 			"updated":"2021-06-08",
-			"description":"Allows you to change the capacity of containers. Separate settings for each type of container for granular control. This mod DOES NOT provide unlimited container capacity.",
+			"description":"Allows you to change the capacity of containers. Separate settings for each type of container for granular control. This mod DOES NOT provide unlimited container capacity. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/ContainerTweaks",
 			"downloadURL":"https://github.com/GruffCassquatch/ContainerTweaks/releases/download/1.1/ContainerTweaks.dll",
 			"testedon":{
@@ -50,7 +71,7 @@
 			"authorURL":"",
 			"version":"1.1",
 			"updated":"2021-05-17",
-			"description":"Allows you to remove the location requirements from craftable items (workbench, forge etc)",
+			"description":"Allows you to remove the location requirements from craftable items (workbench, forge etc). Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/CraftingAnywhere",
 			"downloadURL":"https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/1.1/CraftingAnywhere.dll",
 			"testedon":{
@@ -71,7 +92,7 @@
 			"authorURL":"",
 			"version":"1.2",
 			"updated":"2021-06-01",
-			"description":"Allows you to tweak the interior temperature of the Mountaineer's Hut. Can change the interior temperature bonus (vanilla game value is +10°C) or set the hut to act like other interior locations with a fixed base temperature.",
+			"description":"Allows you to tweak the interior temperature of the Mountaineer's Hut. Can change the interior temperature bonus (vanilla game value is +10°C) or set the hut to act like other interior locations with a fixed base temperature. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks",
 			"downloadURL":"https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks/releases/download/1.2/MountaineersHutTemperatureTweaks.dll",
 			"testedon":{
@@ -135,7 +156,7 @@
 			"authorURL":"",
 			"version":"1.0",
 			"updated":"2021-05-24",
-			"description":"Allows you to set wolves to only come out at night. Can set by region or apply everywhere.",
+			"description":"Allows you to set wolves to only come out at night. Can set by region or apply everywhere. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/WolvesComeOutAtNight",
 			"downloadURL":"https://github.com/GruffCassquatch/WolvesComeOutAtNight/releases/download/1.0/WolvesComeOutAtNight.dll",
 			"testedon":{
