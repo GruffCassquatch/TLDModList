@@ -48,11 +48,11 @@
 			"name":"Container Tweaks",
 			"author":"",
 			"authorURL":"",
-			"version":"1.1",
+			"version":"1.1.1",
 			"updated":"2021-06-08",
 			"description":"Allows you to change the capacity of containers. Separate settings for each type of container for granular control. This mod DOES NOT provide unlimited container capacity. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/ContainerTweaks",
-			"downloadURL":"https://github.com/GruffCassquatch/ContainerTweaks/releases/download/1.1/ContainerTweaks.dll",
+			"downloadURL":"https://github.com/GruffCassquatch/ContainerTweaks/releases/download/1.1.1/ContainerTweaks.dll",
 			"testedon":{
 				"tldversion":"1.94",
 				"mlversion":"0.2.7"
