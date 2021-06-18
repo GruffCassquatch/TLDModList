@@ -130,6 +130,27 @@
 				"notes":""
 			}
 		},{
+			"name":"Shelter Temperature Tweaks",
+			"author":"",
+			"authorURL":"",
+			"version":"1.0",
+			"updated":"2021-06-18",
+			"description":"Allows you to tweak the temperature of shelters that have NO LOADING SCREEN, such as small OUTDOOR caves and structures. Full instructions in the README.",
+			"modURL":"https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks",
+			"downloadURL":"https://github.com/GruffCassquatch/ShelterTemperatureTweaks/releases/download/1.0/ShelterTemperatureTweaks.dll",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.4.0"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},{
 			"name":"Sun Orientation Fixes",
 			"author":"",
 			"authorURL":"",
