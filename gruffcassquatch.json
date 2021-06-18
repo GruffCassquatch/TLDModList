@@ -6,14 +6,14 @@
 			"name":"Choose Starting Gear",
 			"author":"",
 			"authorURL":"",
-			"version":"1.0",
-			"updated":"2021-06-12",
+			"version":"1.1",
+			"updated":"2021-06-18",
 			"description":"Allows you to choose your starting gear when starting a new game. Full instructions in the README.",
 			"modURL":"https://github.com/GruffCassquatch/ChooseStartingGear",
 			"downloadURL":"https://github.com/GruffCassquatch/ChooseStartingGear/releases/download/1.0/ChooseStartingGear.dll",
 			"testedon":{
 				"tldversion":"1.93",
-				"mlversion":"0.2.7"
+				"mlversion":"0.4.0"
 			},
 			"dependencies":[
 				"ModSettings"
