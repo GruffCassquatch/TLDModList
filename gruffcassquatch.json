@@ -27,14 +27,14 @@
 			"name":"ClothingTweaker",
 			"author":"",
 			"authorURL":"",
-			"version":"2.3",
+			"version":"2.2",
 			"updated":"2021-10-10",
 			"description":"Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items. Full instructions in the README. Now updated to included clothes added by mods.",
 			"modURL":"https://github.com/GruffCassquatch/ClothingTweaker",
-			"downloadURL":"https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.3/ClothingTweaker.dll",
+			"downloadURL":"https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.2/ClothingTweaker.dll",
 			"testedon":{
-				"tldversion":"1.95",
-				"mlversion":"0.4.3"
+				"tldversion":"1.93",
+				"mlversion":"0.4.0"
 			},
 			"dependencies":[
 				"ModSettings"
