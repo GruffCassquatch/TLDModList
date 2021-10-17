@@ -1,7 +1,7 @@
 {
 	"author":"Cass",
 	"authorURL":"https://github.com/GruffCassquatch",
-	"mods":[
+	"mods":[ /*
 				{
 			"name":"ChooseStartingGear",
 			"author":"",
@@ -191,5 +191,5 @@
 				"issues":"",
 				"notes":""
 			}
-		}]
+		}*/]
 }
