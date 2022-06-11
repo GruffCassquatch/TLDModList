@@ -168,9 +168,9 @@
 		"aliases": [],
 		"version": "1.21",
 		"updated": "2022-05-12",
-		"description": "",
-		"modURL": "",
-		"downloadURL": "Prevents wolves spawning during the day. Can set by region or to apply everywhere. Full instructions in the README.",
+		"description": "Prevents wolves spawning during the day. Can set by region or to apply everywhere. Full instructions in the README.",
+		"modURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight",
+		"downloadURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight/releases/download/1.21/WolvesComeOutAtNight.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
