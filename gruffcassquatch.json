@@ -175,7 +175,7 @@
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
 		},
-		"dependencies": ["ModSettings"],
+		"dependencies": ["ModSettings", "DeveloperConsole"],
 		"updater": {
 			"enable": true,
 			"downloads": []
