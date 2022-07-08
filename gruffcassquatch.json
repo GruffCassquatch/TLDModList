@@ -143,11 +143,11 @@
 		"name": "CustomSettingsTweaker",
 		"displayName": "Custom Settings Tweaker PRE-RELEASE",
 		"aliases": [],
-		"version": "0.3.1",
-		"updated": "2022-06-12",
+		"version": "0.3.2",
+		"updated": "2022-07-08",
 		"description": "Allows you to change and fine-tune several settings in a Custom mode game (new or existing), such as Hunger, Thirst, Fatigue, Condition Recovery etc. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker",
-		"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.1/CustomSettingsTweaker.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.2/CustomSettingsTweaker.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
