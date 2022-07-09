@@ -221,7 +221,7 @@
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
 		},
-		"dependencies": [""],
+		"dependencies": [],
 		"updater": {
 			"enable": true,
 			"downloads": []
