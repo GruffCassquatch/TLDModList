@@ -168,7 +168,7 @@
 		"aliases": [],
 		"version": "0.1.6",
 		"updated": "2022-07-15",
-		"description": "Adjust calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become "Hot" after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
+		"description": "Adjust calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker",
 		"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.4/CustomSettingsTweaker.dll",
 		"testedon": {
