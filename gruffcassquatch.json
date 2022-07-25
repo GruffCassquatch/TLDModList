@@ -164,13 +164,13 @@
 		}
 	}, {
 		"name": "FoodTweaker",
-		"displayName": "Food Tweaker PRE-RELEASE",
+		"displayName": "Food Tweaker",
 		"aliases": [],
-		"version": "0.1.7",
-		"updated": "2022-07-19",
-		"description": "Adjust: calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
+		"version": "1.0.0",
+		"updated": "2022-07-25",
+		"description": "Adjust: calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/FoodTweaker",
-		"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/0.1.6/FoodTweaker.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/1.0.0/FoodTweaker.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
