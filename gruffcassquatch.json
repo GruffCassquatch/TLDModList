@@ -5,7 +5,7 @@
 		"name": "BedrollTweaker",
 		"displayName": "Bedroll Tweaker",
 		"aliases": [],
-		"version": "1.0.0",
+		"version": "0.2.0",
 		"updated": "2022-07-26",
 		"description": "Allows you to change the warmth, weight and decay of bedrolls. Allows bedroll warmth to 'stack' so extra bedrolls in your inventory can add additional warmth. Fully configurable. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/BedrollTweaker",
