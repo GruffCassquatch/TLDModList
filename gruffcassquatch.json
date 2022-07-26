@@ -97,11 +97,11 @@
 		"name": "ClothingTweaker",
 		"displayName": "Clothing Tweaker",
 		"aliases": [],
-		"version": "2.4.5",
-		"updated": "2022-06-25",
-		"description": "Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility and weight values of clothing items. Full instructions in the README.",
+		"version": "2.5.0",
+		"updated": "2022-07-26",
+		"description": "Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility, weight and decay values of clothing items. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/ClothingTweaker",
-		"downloadURL": "https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.4.5/ClothingTweaker.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.5.0/ClothingTweaker.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
