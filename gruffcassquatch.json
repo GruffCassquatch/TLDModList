@@ -76,7 +76,7 @@
 		"aliases": [],
 		"version": "1.0.0",
 		"updated": "2022-08-04",
-		"description": "Allows you to choose your starting location when starting a new game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
+		"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/ChooseStartingLocation",
 		"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingLocation/releases/download/1.0.0/ChooseStartingLocation.dll",
 		"testedon": {
