@@ -72,13 +72,13 @@
 		}
 	}, {
 		"name": "ChooseStartingLocation",
-		"displayName": "Choose Starting Location PRE-RELEASE",
+		"displayName": "Choose Starting Location",
 		"aliases": [],
-		"version": "0.2",
+		"version": "1.0.0",
 		"updated": "2022-06-02",
-		"description": "Allows you to choose your starting location when starting a new game. 300+ locations, all regions, all difficulty modes. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
+		"description": "Allows you to choose your starting location when starting a new game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/ChooseStartingLocation",
-		"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingLocation/releases/download/0.2/ChooseStartingLocation.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingLocation/releases/download/1.0.0/ChooseStartingLocation.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
