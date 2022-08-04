@@ -26,13 +26,13 @@
 		}
 	}, {
 		"name": "ChooseStartingConditions",
-		"displayName": "Choose Starting Conditions PRE-RELEASE",
+		"displayName": "Choose Starting Conditions",
 		"aliases": [],
-		"version": "0.1",
-		"updated": "2022-05-25",
-		"description": "Allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
+		"version": "1.0.0",
+		"updated": "2022-08-04",
+		"description": "Allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game. Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/ChooseStartingConditions",
-		"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingConditions/releases/download/0.1/ChooseStartingConditions.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingConditions/releases/download/1.0.0/ChooseStartingConditions.dll",
 		"testedon": {
 			"tldversion": "2.0",
 			"mlversion": "0.5.4"
