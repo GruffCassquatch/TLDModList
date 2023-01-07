@@ -281,14 +281,14 @@
 		"name": "SunOrientationFixes",
 		"displayName": "Sun Orientation Fixes",
 		"aliases": [],
-		"version": "1.2",
-		"updated": "2022-05-12",
+		"version": "2.0",
+		"updated": "2023-01-08",
 		"description": "Fixes the sun orientation in several regions. Now all regions should be consistent with each other and the world map.",
 		"modURL": "https://github.com/GruffCassquatch/SunOrientationFixes",
-		"downloadURL": "https://github.com/GruffCassquatch/SunOrientationFixes/releases/download/1.2/SunOrientationFixes.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/SunOrientationFixes/releases/download/2.0/SunOrientationFixes.dll",
 		"testedon": {
-			"tldversion": "2.01",
-			"mlversion": "0.5.4"
+			"tldversion": "2.06",
+			"mlversion": "0.6.0"
 		},
 		"dependencies": [],
 		"updater": {
