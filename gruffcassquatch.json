@@ -297,7 +297,7 @@
 		},
 		"status": {
 			"working": true,
-			"issues": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+			"issues": "",
 			"notes": ""
 		}
 	}, {
