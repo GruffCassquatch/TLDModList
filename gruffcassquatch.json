@@ -149,8 +149,8 @@
 		"modURL": "https://github.com/GruffCassquatch/CraftingAnywhere",
 		"downloadURL": "https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/2.0/CraftingAnywhere.dll",
 		"testedon": {
-			"tldversion": "2.01",
-			"mlversion": "0.5.4"
+			"tldversion": "2.06",
+			"mlversion": "0.6.0"
 		},
 		"dependencies": ["ModSettings"],
 		"updater": {
