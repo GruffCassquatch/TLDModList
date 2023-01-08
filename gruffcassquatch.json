@@ -143,11 +143,11 @@
 		"name": "CraftingAnywhere",
 		"displayName": "Crafting Anywhere",
 		"aliases": [],
-		"version": "1.4.0",
-		"updated": "2022-08-09",
+		"version": "2.0.0",
+		"updated": "2023-01-08",
 		"description": "Allows you to remove the location requirements from craftable items (workbench, forge etc). Full instructions in the README.",
 		"modURL": "https://github.com/GruffCassquatch/CraftingAnywhere",
-		"downloadURL": "https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/1.4.0/CraftingAnywhere.dll",
+		"downloadURL": "https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/2.0/CraftingAnywhere.dll",
 		"testedon": {
 			"tldversion": "2.01",
 			"mlversion": "0.5.4"
@@ -159,7 +159,7 @@
 		},
 		"status": {
 			"working": true,
-			"issues": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+			"issues": "",
 			"notes": ""
 		}
 	}, {
