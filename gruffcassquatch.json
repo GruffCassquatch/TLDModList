@@ -277,14 +277,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.3.5",
+			"version": "0.3.6",
 			"name": "CustomSettingsTweaker",
 			"displayName": "Custom Settings Tweaker PRE-RELEASE",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-07-25",
-			"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.5/CustomSettingsTweaker.dll",
+			"updated": "2023-01-22",
+			"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.6/CustomSettingsTweaker.dll",
 			"modURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker",
 			"description": "Allows you to change and fine-tune several settings in a CUSTOM mode game (new or existing), such as Hunger, Thirst, Fatigue, Condition Recovery etc. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
 			"tags": "Custom, Settings",
@@ -301,12 +301,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
