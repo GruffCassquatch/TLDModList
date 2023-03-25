@@ -482,8 +482,7 @@
 			"description": "Fixes the sun orientation in several regions. Now all regions should be consistent with each other and the world map.",
 			"tags": "Sun, Sky, Direction, North",
 			"categories": [
-				"Quality of Life",
-				"Overhaul"
+				"Quality of Life"
 			],
 			"gameversion": [],
 			"images": [],
