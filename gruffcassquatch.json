@@ -506,14 +506,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3.1",
 			"name": "WolvesComeOutAtNight",
 			"displayName": "Wolves Come Out At Night",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-08-03",
-			"downloadURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight/releases/download/1.2.2/WolvesComeOutAtNight.dll",
+			"updated": "2023-04-21",
+			"downloadURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight/releases/download/1.2.3.1/WolvesComeOutAtNight.dll",
 			"modURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight",
 			"description": "Prevents wolves spawning during the day. Can set by region or to apply everywhere. Full instructions in the README.",
 			"tags": "Wolves, Animal, Behaviour, Behavior",
@@ -529,12 +529,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
