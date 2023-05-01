@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "2.0.0",
 			"name": "BedrollTweaker",
 			"displayName": "Bedroll Tweaker",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-07-26",
-			"downloadURL": "https://github.com/GruffCassquatch/BedrollTweaker/releases/download/1.0.0/BedrollTweaker.dll",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/BedrollTweaker/releases/download/2.0.0/BedrollTweaker.dll",
 			"modURL": "https://github.com/GruffCassquatch/BedrollTweaker",
 			"description": "Allows you to change the warmth, weight and decay of bedrolls. Allows bedroll warmth to 'stack' so extra bedrolls in your inventory can add additional warmth. Fully configurable. Full instructions in the README.",
 			"tags": "Bedroll, Bed, Warmth",
@@ -29,12 +29,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -199,14 +199,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3",
+			"version": "2.0.0",
 			"name": "ContainerTweaks",
 			"displayName": "Container Tweaks",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-05-12",
-			"downloadURL": "https://github.com/GruffCassquatch/ContainerTweaks/releases/download/1.3/ContainerTweaks.dll",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/ContainerTweaks/releases/download/2.0.0/ContainerTweaks.dll",
 			"modURL": "https://github.com/GruffCassquatch/ContainerTweaks",
 			"description": "Allows you to change the capacity of containers. Separate settings for each type of container for granular control. Full instructions in the README.",
 			"tags": "Container, Weight, Capacity",
@@ -222,12 +222,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -316,14 +316,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "2.0.0",
 			"name": "FoodTweaker",
 			"displayName": "Food Tweaker",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-07-25",
-			"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/1.0.0/FoodTweaker.dll",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/2.0.0/FoodTweaker.dll",
 			"modURL": "https://github.com/GruffCassquatch/FoodTweaker",
 			"description": "Adjust: calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. Full instructions in the README.",
 			"tags": "Food, Calories, Kilojoules, Tea, Realistic",
@@ -341,12 +341,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -356,14 +356,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4",
+			"version": "2.0.0",
 			"name": "RerollBurntBuildings",
 			"displayName": "Reroll Burnt Buildings",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-05-12",
-			"downloadURL": "https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/1.4/RerollBurntBuildings.dll",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/2.0.0/RerollBurntBuildings.dll",
 			"modURL": "https://github.com/GruffCassquatch/RerollBurntBuildings",
 			"description": "Adds console commands that allow you to reroll the random burnt building spawns. Now also includes the random fishing hut doors. Full instructions in the README.",
 			"tags": "Burnt, Fishing, Hut, Doors, Buildings",
@@ -381,12 +381,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -396,14 +396,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1",
+			"version": "2.0.0",
 			"name": "ShelterTemperatureTweaks",
 			"displayName": "Shelter Temperature Tweaks",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-05-25",
-			"downloadURL": "https://github.com/GruffCassquatch/ShelterTemperatureTweaks/releases/download/1.1/ShelterTemperatureTweaks.dll",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/ShelterTemperatureTweaks/releases/download/2.0.0/ShelterTemperatureTweaks.dll",
 			"modURL": "https://github.com/GruffCassquatch/ShelterTemperatureTweaks",
 			"description": "Allows you to tweak the temperature of shelters that have NO LOADING SCREEN, such as the Mountaineer's Hut. Full instructions in the README.",
 			"tags": "Cave, Mountaineer, Outdoor, Location, Temperature, Shelter",
@@ -419,12 +419,12 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
