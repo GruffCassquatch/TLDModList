@@ -161,44 +161,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.5.0",
-			"name": "ClothingTweaker",
-			"displayName": "Clothing Tweaker",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2022-07-26",
-			"downloadURL": "https://github.com/GruffCassquatch/ClothingTweaker/releases/download/2.5.0/ClothingTweaker.dll",
-			"modURL": "https://github.com/GruffCassquatch/ClothingTweaker",
-			"description": "Allows you to adjust the warmth, warmth when wet, waterproof, windproof, protection, mobility, weight and decay values of clothing items. Full instructions in the README.",
-			"tags": "Clothing",
-			"categories": [
-				"Clothing"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "ContainerTweaks",
 			"displayName": "Container Tweaks",
